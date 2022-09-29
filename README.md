@@ -1,5 +1,3 @@
-# README.md
-
 
 👋 Hi, my name is Oliver
 
