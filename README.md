@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Oliver</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Developer"</h3>
+<h3 align="center">git commit -m "Hello, I'm a Software Developer"</h3><br>
  
- <br>
+
 - 👨‍💻 All about me is at [My Website](https://the-r4v3n.github.io/github.io/) 
   
 
@@ -10,18 +10,16 @@
 
 - 🌱 Embedded Software Developer Student focusing on Autonomous and Electrical Vehicles.  
   
-
-- 💪 will be skilled in C/C++ and Python  
-  
   
 - 📫 How to reach me nichdefisch@gmail.com  
 
 <br/>  
 
+<div align="center"> 
+<h3>My Skill Set</h3>
 
-## My Skill Set  
-<center><table><tr><td valign="top" width="33%"></center>
-
+<table><tr><td valign="top" width="33%">
+</div>
 
 
 ### Frontend  
