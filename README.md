@@ -1,12 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
- 
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Oliver Joisten</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Oliver Joisten</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Developer"</h3>
  
   
-- 👨‍💻 All about me is at My Website (https://the-r4v3n.github.io/github.io/)  
+- 👨‍💻 All about me is at [My Website](https://the-r4v3n.github.io/github.io/) 
   
 
 - 👀 I’m interested in EXPLORING NEW THINGS  
