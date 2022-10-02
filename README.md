@@ -35,7 +35,7 @@
 
 
 <div align="center"> 
-<h3>My Skill Set</h3>
+<h3>Here is a list of the technologies that I'm familiar with!</h3>
 
 <table><tr><td valign="top" width="33%">
 </div>
