@@ -16,6 +16,25 @@
 <br/>  
 
 <div align="center"> 
+ <h3>Connect with me</h3>  
+
+<div align="center">
+<a href="https://github.com/The-R4V3N" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/oliver-joisten/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/oliver.joisten" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+<div align="center"> 
 <h3>My Skill Set</h3>
 
 <table><tr><td valign="top" width="33%">
@@ -57,57 +76,9 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/The-R4V3N" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/oliver-joisten/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/oliver.joisten" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-
-## Github Stats  
-<table><tr><td valign="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=The-R4V3N&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-
-</td><td valign="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-R4V3N&hide_border=true&layout=compact" align="center" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>
-
-
-
-<br/>    
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=The-R4V3N&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=The-R4V3N&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=The-R4V3N&theme=radical&hide_border=false)<br/>
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=The-R4V3N&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=The-R4V3N&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-R4V3N&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -115,7 +86,11 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+   
 
----
-[![](https://visitcount.itsvg.in/api?id=The-R4V3N&icon=1&color=4)](https://visitcount.itsvg.in)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=The-R4V3N&&style=flat-square" align="center" />
+</div>  
+  
 
+<br/>  
