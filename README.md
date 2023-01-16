@@ -11,7 +11,7 @@
 - 🌱 Embedded Software Developer Student focusing on Autonomous and Electrical Vehicles.  
   
   
-- 📫 [Reach me here](nichdefisch@gmail.com)  
+- 📫 [Reach me here](contact@oliver-joisten.se)  
 
 <br/>  
 
