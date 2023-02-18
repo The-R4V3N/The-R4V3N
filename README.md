@@ -1,17 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm The-R4V3N</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Developer"</h3><br>
- 
+<h1 align="center">Hello, I'm Oliver Joisten, aka The-R4V3N! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">Embedded Software Developer focusing on Autonomous and Electrical Vehicles</h3>
 
-- 👨‍💻 All about me is at [My Website](https://www.oliver-joisten.se/)
-  
+- 🌱 I’m currently a student in Embedded Software Development
 
-- 👀 I’m interested in EXPLORING NEW THINGS  
-  
+- 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles
 
-- 🌱 Embedded Software Developer Student focusing on Autonomous and Electrical Vehicles.  
-  
-  
-- 📫 [Reach me here](contact@oliver-joisten.se)  
+- 💻 Visit my [website](https://www.oliver-joisten.se/) to learn more about me and my work
+
+- 📫 Reach me at [contact@oliver-joisten.se](mailto:contact@oliver-joisten.se) 
 
 <br/>  
 
