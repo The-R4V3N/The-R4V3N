@@ -100,6 +100,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=The-R4V3N&&style=flat-square" align="center" />
 &emsp;
-<a href="https://paypal.me/paypal.me/TheR4V3N" target="_blank" style="display: inline-block;">
+<a href="https://www.paypal.me/TheR4V3N" target="_blank" style="display: inline-block;">
 <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
+</a>
 </div>
