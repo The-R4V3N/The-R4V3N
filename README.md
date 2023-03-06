@@ -9,7 +9,7 @@
 
 - 📫 Reach me at [contact@oliver-joisten.se](mailto:contact@oliver-joisten.se) 
 
-<div align="center"> 
+ 
  <h3 align="center">Blogs posts</h3><br>
 <!-- BLOG-POST-LIST:START -->
 - [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://dev.to/ther4v3n/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github-22f)
@@ -18,7 +18,7 @@
 - [Streamlining Your Development Workflow with GitHub Actions: A Comprehensive Guide](https://dev.to/ther4v3n/streamlining-your-development-workflow-with-github-actions-a-comprehensive-guide-2fd3)
 - [Why Linux is the Go-To Operating System for Developers and Servers?](https://dev.to/ther4v3n/why-linux-is-the-go-to-operating-system-for-developers-and-servers-297l)
 <!-- BLOG-POST-LIST:END -->
-</div>
+
 
 <br/>  
 <div align="center"> 
