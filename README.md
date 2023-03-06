@@ -10,7 +10,7 @@
 - 📫 Reach me at [contact@oliver-joisten.se](mailto:contact@oliver-joisten.se) 
 
  
- <h3 align="center">Blogs posts</h3><br>
+ <h3 align="center">Blogs posts</h3>
  <table><tr><td valign="top">
 <!-- BLOG-POST-LIST:START -->
 - [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://dev.to/ther4v3n/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github-22f)
