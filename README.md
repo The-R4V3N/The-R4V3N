@@ -10,7 +10,7 @@
 - 📫 Reach me at [contact@oliver-joisten.se](mailto:contact@oliver-joisten.se) 
 
 <div align="center"> 
-## Blogs posts
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </div>
