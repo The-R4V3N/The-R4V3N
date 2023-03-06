@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node 16
+      - name: Use Node.js 16.x
         uses: actions/setup-node@v2
         with:
           node-version: '16.x'
@@ -19,5 +19,5 @@ jobs:
           feed_list: 'https://dev.to/feed/ther4v3n'
       - name: Add line breaks after blog post links
         run: |
-         awk '{gsub(/\]\(/,"\]\n\n(")}1' README.md | awk '{gsub(/\)\[/,")\n\n[")}1' > temp && mv temp README.md
+          sed -i -e 's/)/)\n\n/g; s/](/]\n\n(/g' README.md
 
