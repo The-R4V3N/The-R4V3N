@@ -13,6 +13,6 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/ther4v3n"
-      - name: Add line break after first blog post
+      - name: Add line breaks after blog post links
         run: |
-          sed -i -e '/^\[\!\[/s/$/\n/' README.md
+          sed -i -e '/^\[\!\[/ { N; s/\]\(.*\)\n\[/\]\1\n\n\[/ }' README.md
