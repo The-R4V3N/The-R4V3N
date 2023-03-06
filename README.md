@@ -11,7 +11,7 @@
 
  
  <h3 align="center">Blogs posts</h3>
- <table><tr><td valign="top">
+ <table><tr><td valign="top" width="100% >
 <!-- BLOG-POST-LIST:START -->
 - [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://dev.to/ther4v3n/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github-22f)
 - [Understanding the Ternary Operator in C and C++](https://dev.to/ther4v3n/understanding-the-ternary-operator-in-c-and-c-3ho2)
