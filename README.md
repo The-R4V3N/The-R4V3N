@@ -12,6 +12,11 @@
 <div align="center"> 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://dev.to/ther4v3n/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github-22f)
+- [Understanding the Ternary Operator in C and C++](https://dev.to/ther4v3n/understanding-the-ternary-operator-in-c-and-c-3ho2)
+- [Understanding Overloaded Functions in C++: Benefits, Limitations, and Best Practices](https://dev.to/ther4v3n/understanding-overloaded-functions-in-c-benefits-limitations-and-best-practices-503g)
+- [Streamlining Your Development Workflow with GitHub Actions: A Comprehensive Guide](https://dev.to/ther4v3n/streamlining-your-development-workflow-with-github-actions-a-comprehensive-guide-2fd3)
+- [Why Linux is the Go-To Operating System for Developers and Servers?](https://dev.to/ther4v3n/why-linux-is-the-go-to-operating-system-for-developers-and-servers-297l)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
