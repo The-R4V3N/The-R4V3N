@@ -19,7 +19,4 @@ jobs:
           feed_list: 'https://dev.to/feed/ther4v3n'
       - name: Add line breaks after blog post links
         run: |
-          sed -i 's/\] */&\n\n/g' README.md
-          sed -i 's/(http/\n(http/g' README.md
-          sed -i '$a\' README.md
-
+          sed -i -e 's/)/)\n/g; s/\] /]\n/g' README.md
