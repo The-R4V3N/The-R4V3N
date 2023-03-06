@@ -21,4 +21,5 @@ jobs:
         run: |
           sed -i 's/\] */&\n\n/g' README.md
           sed -i 's/(http/\n(http/g' README.md
+          sed -i '$a\' README.md
 
