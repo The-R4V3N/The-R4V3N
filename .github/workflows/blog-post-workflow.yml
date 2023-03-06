@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    # Runs every hour
+    - cron: '0 * * * *'
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -15,8 +15,7 @@ jobs:
           node-version: '16.x'
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/ther4v3n"
+          feed_list: 'https://dev.to/feed/ther4v3n'
       - name: Add line breaks after blog post links
         run: |
-         sed -i -e 's/\]\([^)]*\))/\]\n\n\1/g; s/\)\[/\)\n\n\[/g' README.md
+          sed -i -e 's/\]\([^)]*\))/\]\n\n\1/g; s/\)\[/\)\n\n\[/g' README.md
