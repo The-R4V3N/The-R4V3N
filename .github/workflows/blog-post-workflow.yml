@@ -20,4 +20,4 @@ jobs:
           template: "<tr><td>$title</td><td>$url</td></tr>"
       - name: Add line breaks after blog post links
         run: |
-          sed -i -e 's/)/)\n/g; s/\] /]\n/g' README.md
+          sed -i -e 's/\(\[.*\]\)(\(http.*\))/\1\n\n\2/' README.md
