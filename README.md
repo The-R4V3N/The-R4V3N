@@ -29,7 +29,9 @@
 - [Why Linux is the Go-To Operating System for Developers and Servers](https://www.oliver-joisten.se/why-linux-is-the-go-to-operating-system-for-developers-and-servers/)
 <!-- BLOG-POST-LIST:END -->
 
-📊 &nbsp;**This week I spent my time on**
+<div align="center"> 
+ <h3>📊 This week I spent my time on</h3>  
+  </div>
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=The_R4V3N&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
