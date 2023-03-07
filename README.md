@@ -5,21 +5,13 @@
 
 - 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles
 
-- 💻 Visit my [website](https://www.oliver-joisten.se/) to learn more about me and my work
+- 👨‍💻 All of my projects are available at [https://www.oliver-joisten.se/](https://www.oliver-joisten.se/)
 
-- 📫 Reach me at [contact@oliver-joisten.se](mailto:contact@oliver-joisten.se) 
+- 📝 I regularly write articles on [https://www.oliver-joisten.se/blog/](https://www.oliver-joisten.se/blog/)
 
- 
- <h3 align="center">Blogs posts</h3>
- <table><tr><td valign="top" width="100% >
-<!-- BLOG-POST-LIST:START -->
-- [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://dev.to/ther4v3n/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github-22f)
-- [Understanding the Ternary Operator in C and C++](https://dev.to/ther4v3n/understanding-the-ternary-operator-in-c-and-c-3ho2)
-- [Understanding Overloaded Functions in C++: Benefits, Limitations, and Best Practices](https://dev.to/ther4v3n/understanding-overloaded-functions-in-c-benefits-limitations-and-best-practices-503g)
-- [Streamlining Your Development Workflow with GitHub Actions: A Comprehensive Guide](https://dev.to/ther4v3n/streamlining-your-development-workflow-with-github-actions-a-comprehensive-guide-2fd3)
-- [Why Linux is the Go-To Operating System for Developers and Servers?](https://dev.to/ther4v3n/why-linux-is-the-go-to-operating-system-for-developers-and-servers-297l)
-<!-- BLOG-POST-LIST:END -->
-</td></tr></table> 
+- 💬 Ask me about **C/C++, Python, Git, Bash**
+
+- 📫 How to reach me **contact@oliver-joisten.se**
 
 
 <br/>  
@@ -47,7 +39,7 @@
 
 
 <div align="center"> 
-<h3>Here is a list of the technologies that I'm familiar with!</h3>
+<h3>Here is a list of Languages and Tools that I'm familiar with!</h3>
 
 <table><tr><td valign="top" width="33%">
 </div>
