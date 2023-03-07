@@ -14,8 +14,7 @@
 - 📫 How to reach me **contact@oliver-joisten.se**
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Setting up a Linux Home Server and Using it to Program with VS Code and GitHub</td><td>https://dev.to/ther4v3n/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github-22f</td></tr><tr><td>Understanding the Ternary Operator in C and C++</td><td>https://dev.to/ther4v3n/understanding-the-ternary-operator-in-c-and-c-3ho2</td></tr><tr><td>Understanding Overloaded Functions in C++: Benefits, Limitations, and Best Practices</td><td>https://dev.to/ther4v3n/understanding-overloaded-functions-in-c-benefits-limitations-and-best-practices-503g</td></tr><tr><td>Streamlining Your Development Workflow with GitHub Actions: A Comprehensive Guide</td><td>https://dev.to/ther4v3n/streamlining-your-development-workflow-with-github-actions-a-comprehensive-guide-2fd3</td></tr><tr><td>Why Linux is the Go-To Operating System for Developers and Servers?</td><td>https://dev.to/ther4v3n/why-linux-is-the-go-to-operating-system-for-developers-and-servers-297l</td></tr><!-- BLOG-POST-LIST:END -->
 
 <br/>  
 <div align="center"> 
