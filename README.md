@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **contact@oliver-joisten.se**
 
-- ⚡ Fun fact: I am groot... I am groot.
-
 <div align="center"> 
  <h3>📕  Latest Blog Posts</h3>  
   </div>
