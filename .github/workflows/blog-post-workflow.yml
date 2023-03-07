@@ -16,5 +16,5 @@ jobs:
           node-version: '16.x'
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://dev.to/feed/ther4v3n'
+          feed_list: 'https://www.oliver-joisten.se/feed/'
           template: "<tr><td>$title</td><td>$url</td></tr>"
