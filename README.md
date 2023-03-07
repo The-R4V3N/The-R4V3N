@@ -18,13 +18,7 @@
 - ⚡ Fun fact: I am groot... I am groot.
 
 ### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
-- [Understanding the Ternary Operator in C and C++](https://www.oliver-joisten.se/understanding-the-ternary-operator-in-c-and-c/)
-- [Understanding Overloaded Functions in C++: Benefits, Limitations, and Best Practices](https://www.oliver-joisten.se/understanding-overloaded-functions-in-c-benefits-limitations-and-best-practices/)
-- [Streamlining Your Development Workflow with GitHub Actions: A Comprehensive Guide](https://www.oliver-joisten.se/streamlining-your-development-workflow-with-github-actions-a-comprehensive-guide/)
-- [Why Linux is the Go-To Operating System for Developers and Servers](https://www.oliver-joisten.se/why-linux-is-the-go-to-operating-system-for-developers-and-servers/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><td>https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/</td></tr><td>https://www.oliver-joisten.se/understanding-the-ternary-operator-in-c-and-c/</td></tr><td>https://www.oliver-joisten.se/understanding-overloaded-functions-in-c-benefits-limitations-and-best-practices/</td></tr><td>https://www.oliver-joisten.se/streamlining-your-development-workflow-with-github-actions-a-comprehensive-guide/</td></tr><td>https://www.oliver-joisten.se/why-linux-is-the-go-to-operating-system-for-developers-and-servers/</td></tr><!-- BLOG-POST-LIST:END -->
 
 <br/>  
 <div align="center"> 
