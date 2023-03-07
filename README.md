@@ -18,8 +18,7 @@
 - ⚡ Fun fact: I am groot... I am groot.
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Setting up a Linux Home Server and Using it to Program with VS Code and GitHub</td><td>https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/</td></tr><tr><td>Understanding the Ternary Operator in C and C++</td><td>https://www.oliver-joisten.se/understanding-the-ternary-operator-in-c-and-c/</td></tr><tr><td>Understanding Overloaded Functions in C++: Benefits, Limitations, and Best Practices</td><td>https://www.oliver-joisten.se/understanding-overloaded-functions-in-c-benefits-limitations-and-best-practices/</td></tr><tr><td>Streamlining Your Development Workflow with GitHub Actions: A Comprehensive Guide</td><td>https://www.oliver-joisten.se/streamlining-your-development-workflow-with-github-actions-a-comprehensive-guide/</td></tr><tr><td>Why Linux is the Go-To Operating System for Developers and Servers</td><td>https://www.oliver-joisten.se/why-linux-is-the-go-to-operating-system-for-developers-and-servers/</td></tr><!-- BLOG-POST-LIST:END -->
 
 <br/>  
 <div align="center"> 
