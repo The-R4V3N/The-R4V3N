@@ -14,7 +14,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '16.x'
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: The-R4V3N/blog-post-workflow@master
         with:
           feed_list: 'https://dev.to/feed/ther4v3n'
           template: "<tr><td>$title</td><td>$url</td></tr>"
