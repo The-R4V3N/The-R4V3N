@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact: I am groot... I am groot.
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>  
 <div align="center"> 
