@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **contact@oliver-joisten.se**
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>  
 <div align="center"> 
