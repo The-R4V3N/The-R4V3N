@@ -17,6 +17,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://www.oliver-joisten.se/feed/'
+          template: "<td>$url</td></tr>"
       - name: Add line breaks after blog post links
         run: |
           sed -i -e 's/.*\(https\?:\/\/[^\s]*\).*/\1/' README.md
