@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Oliver Joisten, aka The-R4V3N! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Embedded Software Developer focusing on Autonomous and Electrical Vehicles</h3>
 
+- 🔭 I’m currently working on whatever @The-R4V3N is working on
+
 - 🌱 I’m currently a student in Embedded Software Development
 
 - 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles
@@ -12,6 +14,8 @@
 - 💬 Ask me about **C/C++, Python, Git, Bash**
 
 - 📫 How to reach me **contact@oliver-joisten.se**
+
+- ⚡ Fun fact: I am groot... I am groot.
 
 
 <br/>  
