@@ -17,7 +17,10 @@
 
 - ⚡ Fun fact: I am groot... I am groot.
 
-### Blog posts
+<div align="center"> 
+ <h3>📕  Latest Blog Posts</h3>  
+  </div>
+
 <!-- BLOG-POST-LIST:START -->
 - [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
 - [Understanding the Ternary Operator in C and C++](https://www.oliver-joisten.se/understanding-the-ternary-operator-in-c-and-c/)
@@ -26,9 +29,10 @@
 - [Why Linux is the Go-To Operating System for Developers and Servers](https://www.oliver-joisten.se/why-linux-is-the-go-to-operating-system-for-developers-and-servers/)
 <!-- BLOG-POST-LIST:END -->
 
+
 <br/>  
 <div align="center"> 
- <h3>Connect with me</h3>  
+ <h3>🔗 Connect with me</h3>  
  </div>
 <div align="center">
  <a href="https://github.com/The-R4V3N" target="_blank">
