@@ -31,11 +31,11 @@
 
 <div align="center"> 
  <h3>📊 This week I spent my time on</h3>  
-  </div>
+ 
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=The_R4V3N&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777)
+ </div>
 
-<br/>  
 <div align="center"> 
  <h3>🔗 Connect with me</h3>  
  </div>
