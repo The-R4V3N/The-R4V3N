@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Oliver Joisten, aka The-R4V3N! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hello, I'm Oliver, aka The-R4V3N! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Future Embedded Software Engineer focusing on Autonomous and Electrical Vehicles</h3>
 
 - 🔭 I’m currently working on whatever @The-R4V3N is working on
