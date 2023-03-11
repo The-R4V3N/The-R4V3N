@@ -26,34 +26,52 @@
 - [Understanding Overloaded Functions in C++: Benefits, Limitations, and Best Practices](https://www.oliver-joisten.se/understanding-overloaded-functions-in-c-benefits-limitations-and-best-practices/)
 - [Streamlining Your Development Workflow with GitHub Actions: A Comprehensive Guide](https://www.oliver-joisten.se/streamlining-your-development-workflow-with-github-actions-a-comprehensive-guide/)
 <!-- BLOG-POST-LIST:END -->
+<h3 align="center">📊 My Week in a Summary!</h3>
 
-<div align="center"> 
- <h3>📊 This week I spent my time on</h3>  
- 
-
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=The_R4V3N&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777)
- </div>
-
-<div align="center"> 
- <h3>🔗 Connect with me</h3>  
- </div>
 <div align="center">
- <a href="https://github.com/The-R4V3N" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-<a href="https://dev.to/ther4v3n" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/oliver-joisten" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/oliver.joisten" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <h3>This week I spent my time on</h3>
+          <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=The_R4V3N&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777" />
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <h3>The majority of my reading material this week covered </h3>
+          <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/The-R4V3N/The-R4V3N/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <hr>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div align="center"> 
+          <h3>🔗 Connect with me</h3>  
+          <a href="https://github.com/The-R4V3N" target="_blank">
+            <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+          </a>
+          <a href="https://dev.to/ther4v3n" target="_blank">
+            <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin-bottom: 5px;" />
+          </a>
+          <a href="https://linkedin.com/in/oliver-joisten" target="_blank">
+            <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+          </a>
+          <a href="https://www.facebook.com/oliver.joisten" target="_blank">
+            <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
+          </a>
+        </div> 
+      </td>
+    </tr>
+  </table>
+</div>
 
-</a>  
-</div>  
-  
-
+ 
 <br/>  
 
 
