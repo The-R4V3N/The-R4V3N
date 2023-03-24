@@ -40,7 +40,7 @@
       <td>
         <div align="center">
           <h3>The majority of my reading material this week covered </h3>
-          <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/The-R4V3N/The-R4V3N/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+          <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/The-R4V3N/The-R4V3N/blob/master/devcard.svg" width="400" alt="The-R4V3N's Dev Card"/></a>
         </div>
       </td>
     </tr>
