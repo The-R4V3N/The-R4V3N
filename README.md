@@ -11,7 +11,9 @@
 
 - 📝 I regularly write articles on [https://www.oliver-joisten.se/blog/](https://www.oliver-joisten.se/blog/)
 
-- 💬 Ask me about **C/C++, Python, Git, Bash**
+
+[//]: <> (This is how you make comments in Markdown)
+[//]: <> (- 💬 Ask me about **C/C++, Python, Git, Bash**)
 
 - 📫 How to reach me **contact@oliver-joisten.se**
 
