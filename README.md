@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on whatever @The-R4V3N is working on
 
-- 🌱 I’m currently a student in Embedded Software Development
+- 🌱 I’m currently a Advanced Software Developmer Embedded Systems 
 
 - 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles
 
