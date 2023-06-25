@@ -22,6 +22,7 @@
   </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Your Own Commands in Linux](https://www.oliver-joisten.se/how-to-create-your-own-commands-in-linux/)
 - [Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
 - [How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
 - [My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
