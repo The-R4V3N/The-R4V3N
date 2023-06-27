@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Oliver, aka The-R4V3N! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Advanced Software Developer Embedded Systems focusing on Autonomous and Electrical Vehicles</h3>
+<h3 align="center">Embedded Systems Software Developer with an expertise in Autonomous and Electrical Vehicles</h3>
 
 - 🔭 I’m currently working on whatever @The-R4V3N is working on
 
