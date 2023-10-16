@@ -1,11 +1,21 @@
-<h1 align="center">Hello, I'm Oliver, aka The-R4V3N! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Embedded Systems Software Developer with an expertise in Autonomous and Electrical Vehicles</h3>
+<h1 align="center">
+  <img src="https://komarev.com/ghpvc/?username=The-R4V3N&&style=flat-square" align="center" />
+   Hi I'm <em>Oliver aka The- R4V3N</em>! 
+   <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+</h1>
+
+<img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Embedded+Systems+Enthusiasm;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
+</p> 
 
 - 🔭 I’m currently working on whatever @The-R4V3N is working on
 
 - 🌱 I’m currently a Advanced Software Developer Embedded Systems student
 
-- 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles
+[//]: <> (- 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles)
 
 - 👨‍💻 All of my projects are available at [https://www.oliver-joisten.se/](https://www.oliver-joisten.se/)
 
