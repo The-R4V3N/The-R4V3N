@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=The-R4V3N&&style=flat-square" align="center" />
    Hi I'm <em>Oliver aka The- R4V3N</em>! 
    <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </h1>
