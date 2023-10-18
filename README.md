@@ -31,11 +31,11 @@
   </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
 - [Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
 - [How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
 - [My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
 - [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
-- [Understanding the Ternary Operator in C and C++](https://www.oliver-joisten.se/understanding-the-ternary-operator-in-c-and-c/)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="center">📊 My Week in a Summary!</h3>
 
