@@ -1,15 +1,26 @@
-
-
 <h1 align="center">
-   Hi I'm <em>Oliver aka The- R4V3N</em>! 
+   Hi I'm <em>Oliver aka The-R4V3N</em>! 
    <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </h1>
 
- <p align="center">
-   <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="The-R4V3N" width="700" height="300" />
+<p align="center">
+   <a href="https://github.com/The-R4V3N/The-R4V3N/actions">
+      <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" alt="Actions Status">
+   </a>
+  <!-- <a href="https://github.com/The-R4V3N/The-R4V3N/actions">
+      <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/blog-post-workflow/badge.svg" alt="Actions Status">
+   </a>
+   <a href="https://github.com/The-R4V3N/The-R4V3N/actions">
+      <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/opencommit/badge.svg" alt="Actions Status">
+   </a> -->
 </p>
 
-<!--<img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">-->
+
+ <p align="center">
+   <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Circuit%20Board&theme=Dark" alt="The-R4V3N" width="700" height="300" />
+</p>
+
+<img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -88,6 +99,7 @@
   </table>
 </div>
 
+[![The-R4V3N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <br/>  
 
