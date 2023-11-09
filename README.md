@@ -30,6 +30,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=%22Knowledge+is+power!%22;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
 <!-- Typing SVG end -->
 <br>
+<!-- About me Section start -->
 <div align="center">
 🔭 I’m currently working on whatever @The-R4V3N is working on
 
@@ -46,7 +47,9 @@
 [//]: <> (This is how you make comments in Markdown)
 [//]: <> (- 💬 Ask me about **C/C++, Python, Git, Bash**)
 </div>
+<!-- About me Section End -->
 <br>
+<!-- Blog Section Start -->
 <div align="center"> 
  <h3>📕  Latest Blog Posts</h3>  
   <hr>
@@ -63,6 +66,7 @@
 [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
 <!-- BLOG-POST-LIST:END -->
 </div>
+<!-- Blog Section End -->
 <br>
 <h3 align="center">Weekly Development Brakedown</h3>
 <div align="center">
@@ -76,6 +80,7 @@
 </div>
 
 <br>
+<!-- Connect with me Start -->
 <div align="center"> 
           <h3>🔗 Connect with me</h3>  
           <a href="https://github.com/The-R4V3N" target="_blank">
@@ -92,8 +97,10 @@
           </a>
         </div> 
 <hr>
+<!-- Connect with me End -->
 <br>
 <br>
+<!-- List of Tools and Languages Start -->
 <div align="center"> 
 
 <h3>Here is a list of Languages and Tools that I'm familiar with!</h3>
@@ -155,28 +162,33 @@
 
 </td></tr></table>
 
+<!-- List of Tools and Languages End -->
 
+<!-- Github Stats Start -->
 ## GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-R4V3N&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=The-R4V3N&theme=radical&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-R4V3N&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<!-- Github Stats End -->
+<!-- Github Trophies Start -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
-
+<!-- Github Trophies End -->
 <br/>  
+<!-- Dev.to Card start -->
+
   <div align="center">
     <h3>The majority of my reading material this week covered </h3>
     <a href="https://app.daily.dev/The_R4V3N"><img src="https://github.com/The-R4V3N/The-R4V3N/blob/master/devcard.svg" width="600" alt="The-R4V3N's Dev Card"/></a>
 </div>
 
+<!-- Dev.to Card End -->
+<!-- Random Dev Qoute Start -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!-- Random Dev Qoute End -->
  <br/>
-
+<!-- User counter & Paypal Start -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=The-R4V3N&&style=flat-square" align="center" />
 &emsp;
@@ -184,6 +196,7 @@
 <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
 </a>
 </div>
+<!-- User counter & Paypal End -->
 <br>
 <br>
 <!-- wave GIF start -->
