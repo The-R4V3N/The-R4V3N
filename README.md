@@ -1,14 +1,20 @@
+
+
 <h1 align="center">
    Hi I'm <em>Oliver aka The- R4V3N</em>! 
    <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </h1>
 
-<img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
+ <p align="center">
+   <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="The-R4V3N" width="700" height="300" />
+</p>
+
+<!--<img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">-->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=%22Knowledge+is+power!%22;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
-</p> 
+  
 
 - 🔭 I’m currently working on whatever @The-R4V3N is working on
 
