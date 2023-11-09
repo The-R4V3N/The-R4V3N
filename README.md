@@ -1,26 +1,35 @@
-<h1 align="center">
+<!-- hello nice to meet you text start -->
+<div align="center">
+    <img loading="lazy" width="30px" src="./media/icons/code.png" alt="code png" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
+    <img loading="lazy" width="30px" src="./media/icons/layers.png" alt="layers png" />
+</div>
+<!-- hello nice to meet you text end -->
+
+<!-- <h1 align="center">
    Hi I'm <em>Oliver aka The-R4V3N</em>! 
    <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
-</h1>
+</h1> -->
+<br>
+<!-- about repository badges start -->
+<div align="center">
+   <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" alt="Actions Status">
+  <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
+  <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
+  <!-- <a style="margin-right: 6px" href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+    <img loading="lazy" alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" />
+  </a> -->
+  <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
+</div>
+<!-- about repository badges end -->
 
-<p align="center">
-   <a href="https://github.com/The-R4V3N/The-R4V3N/actions">
-      <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" alt="Actions Status">
-   </a>
-  <!-- <a href="https://github.com/The-R4V3N/The-R4V3N/actions">
-      <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/blog-post-workflow/badge.svg" alt="Actions Status">
-   </a>
-   <a href="https://github.com/The-R4V3N/The-R4V3N/actions">
-      <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/opencommit/badge.svg" alt="Actions Status">
-   </a> -->
-</p>
-
+<br>
 
  <p align="center">
    <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Circuit%20Board&theme=Dark" alt="The-R4V3N" width="700" height="300" />
 </p>
 
-<img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
+<!-- <img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif"> -->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
