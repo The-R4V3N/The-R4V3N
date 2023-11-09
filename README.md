@@ -5,11 +5,6 @@
     <img loading="lazy" width="30px" src="./media/icons/layers.png" alt="layers png" />
 </div>
 <!-- hello nice to meet you text end -->
-
-<!-- <h1 align="center">
-   Hi I'm <em>Oliver aka The-R4V3N</em>! 
-   <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
-</h1> -->
 <br>
 <!-- about repository badges start -->
 <div align="center">
@@ -22,73 +17,66 @@
   <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- about repository badges end -->
-
 <br>
-
+<br>
+<!-- Header image start -->
  <p align="center">
    <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Circuit%20Board&theme=Dark" alt="The-R4V3N" width="700" height="300" />
 </p>
-
-<!-- <img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif"> -->
-
+<!-- Header image end -->
+<br>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=%22Knowledge+is+power!%22;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
-  
+<!-- Typing SVG end -->
+<br>
+<div align="center">
+🔭 I’m currently working on whatever @The-R4V3N is working on
 
-- 🔭 I’m currently working on whatever @The-R4V3N is working on
+🌱 I’m currently a Advanced Software Developer Embedded Systems student
 
-- 🌱 I’m currently a Advanced Software Developer Embedded Systems student
+👨‍💻 All of my projects are available at [https://www.oliver-joisten.se/](https://www.oliver-joisten.se/)
+
+📝 I regularly write articles on [https://www.oliver-joisten.se/blog/](https://www.oliver-joisten.se/blog/)
+
+📫 How to reach me **contact@oliver-joisten.se**
 
 [//]: <> (- 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles)
 
-- 👨‍💻 All of my projects are available at [https://www.oliver-joisten.se/](https://www.oliver-joisten.se/)
-
-- 📝 I regularly write articles on [https://www.oliver-joisten.se/blog/](https://www.oliver-joisten.se/blog/)
-
-
 [//]: <> (This is how you make comments in Markdown)
 [//]: <> (- 💬 Ask me about **C/C++, Python, Git, Bash**)
-
-- 📫 How to reach me **contact@oliver-joisten.se**
-
+</div>
+<br>
 <div align="center"> 
  <h3>📕  Latest Blog Posts</h3>  
-  </div>
-
+  <hr>
+    
 <!-- BLOG-POST-LIST:START -->
-- [Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
-- [Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
-- [How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
-- [My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
-- [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
-<!-- BLOG-POST-LIST:END -->
-<h3 align="center">📊 My Week in a Summary!</h3>
+[Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
 
+[Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
+
+[How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
+
+[My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
+
+[Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
+<!-- BLOG-POST-LIST:END -->
+</div>
+<br>
+<h3 align="center">Weekly Development Brakedown</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <div align="center">
-          <h3>This week I spent my time on</h3>
-          <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=The_R4V3N&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777" />
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <h3>The majority of my reading material this week covered </h3>
-          <a href="https://app.daily.dev/The_R4V3N"><img src="https://github.com/The-R4V3N/The-R4V3N/blob/master/devcard.svg" width="400" alt="The-R4V3N's Dev Card"/></a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <hr>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <div align="center"> 
+    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=The_R4V3N&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777" width="800" />
+<br>
+<br>
+    
+<!-- Contributer graph start -->
+[![The-R4V3N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Contributer graph start -->
+</div>
+
+<br>
+<div align="center"> 
           <h3>🔗 Connect with me</h3>  
           <a href="https://github.com/The-R4V3N" target="_blank">
             <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
@@ -103,14 +91,9 @@
             <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
           </a>
         </div> 
-      </td>
-    </tr>
-  </table>
-</div>
- 
-<br/>  
-
-
+<hr>
+<br>
+<br>
 <div align="center"> 
 
 <h3>Here is a list of Languages and Tools that I'm familiar with!</h3>
@@ -172,8 +155,6 @@
 
 </td></tr></table>
 
-<br/>  
-
 
 ## GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-R4V3N&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
@@ -183,10 +164,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Contributer graph start -->
-[![The-R4V3N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- Contributer graph start -->
 
+
+<br/>  
+  <div align="center">
+    <h3>The majority of my reading material this week covered </h3>
+    <a href="https://app.daily.dev/The_R4V3N"><img src="https://github.com/The-R4V3N/The-R4V3N/blob/master/devcard.svg" width="600" alt="The-R4V3N's Dev Card"/></a>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
