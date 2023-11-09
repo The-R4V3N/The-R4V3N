@@ -107,8 +107,6 @@
     </tr>
   </table>
 </div>
-
-[![The-R4V3N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <br/>  
 
@@ -184,6 +182,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<!-- Contributer graph start -->
+[![The-R4V3N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Contributer graph start -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
