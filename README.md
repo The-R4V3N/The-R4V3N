@@ -8,13 +8,10 @@
 <br>
 <!-- about repository badges start -->
 <div align="center">
-   <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" alt="Actions Status">
-  <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
-  <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
-  <!-- <a style="margin-right: 6px" href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
-    <img loading="lazy" alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" />
-  </a> -->
-  <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
+    <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" alt="Actions Status">
+    <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
+    <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
+    <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- about repository badges end -->
 <br>
@@ -55,15 +52,11 @@
   <hr>
 
 <!-- BLOG-POST-LIST:START -->
-[Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
-
-[Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
-
-[How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
-
-[My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
-
-[Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
+- [Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
+- [Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
+- [How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
+- [My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
+- [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
 <!-- BLOG-POST-LIST:END -->
 </div>
 <!-- Blog Section End -->
@@ -99,77 +92,39 @@
 <hr>
 <!-- Connect with me End -->
 <br>
-<br>
 <!-- List of Tools and Languages Start -->
 <div align="center">
 
 <h3>Here is a list of Languages and Tools that I'm familiar with!</h3>
-
-<table><tr><td valign="top" width="33%">
-</div>
-<div align="center">
-<h3>Frontend</h3>
-</div>
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-  <!--
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- -->
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
- </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
- <!--
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- -->
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">
-<h3>Backend</h3>
-</div>
-<div align="center">  
+<br>
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<!--
- <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
--->
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="50"/></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<!--
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- -->
- </div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">
-<h3>DevOps</h3>
-</div>
-<div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
+ </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 <!--
- <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
- -->
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-
-</div>
-
-</td></tr></table>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+-->
+</p>
 <!-- List of Tools and Languages End -->
-
+<br>
 <!-- Github Stats Start -->
-## GitHub Stats
+<h3> GitHub Stats</h2>
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-R4V3N&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=The-R4V3N&theme=radical&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-R4V3N&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Github Stats End -->
+<br>
 <!-- Github Trophies Start -->
-## 🏆 GitHub Trophies
+<h3> 🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <!-- Github Trophies End -->
@@ -182,8 +137,9 @@
 </div>
 
 <!-- Dev.to Card End -->
+<br>
 <!-- Random Dev Qoute Start -->
-### ✍️ Random Dev Quote
+<h3>✍️ Random Dev Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- Random Dev Qoute End -->
