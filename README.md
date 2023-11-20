@@ -24,7 +24,7 @@
 <br>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=%22Knowledge+is+power!%22;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&width=535&lines=%22Knowledge+is+power!%22;%22Every+moment+is+a+fresh+beginning!%22;%22Embrace+challenges+to+foster+your+growth!%22" alt="Typing SVG" /></a>
 <!-- Typing SVG end -->
 <br>
 <!-- About me Section start -->
