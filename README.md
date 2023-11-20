@@ -16,7 +16,7 @@
 <!-- about repository badges end -->
 <br>
 <br>
-<!-- Header image start -->
+<!-- Header image by wei - https://github.com/wei/socialify -->
  <p align="center">
    <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Circuit%20Board&theme=Dark" alt="The-R4V3N" width="700" height="300" />
 </p>
@@ -27,7 +27,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=555&lines=Knowledge+is+power!;Every+moment+is+a+fresh+beginning!;Embrace+challenges+to+foster+your+growth!" alt="Typing SVG" /></a>
 <!-- Typing SVG end -->
 <br>
-<!-- About me Section start -->
+<!-- About me Section start by ishavanand - https://github.com/rishavanand/github-profilinator -->
 <div align="center">
 🔭 I’m currently working on whatever @The-R4V3N is working on
 
