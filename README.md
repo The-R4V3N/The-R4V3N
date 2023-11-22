@@ -17,7 +17,7 @@
 <br>
 <!-- Header image by wei - https://github.com/wei/socialify -->
  <p align="center">
-   <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?font=Source%20Code%20Pro&language=1&name=1&pattern=Circuit%20Board&theme=Dark" alt="The-R4V3N" width="700" height="300" />
+   <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?description=1&descriptionEditable=Code%2C%20Debug%20and%20Repeat&font=Raleway&name=1&pattern=Circuit%20Board&theme=Dark" alt="The-R4V3N" width="700" height="300" />
 </p>
 <!-- Header image end -->
 
