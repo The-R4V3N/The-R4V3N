@@ -26,6 +26,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=555&lines=Knowledge+is+power!;Every+moment+is+a+fresh+beginning!;Embrace+challenges+to+foster+your+growth!" alt="Typing SVG" /></a>
 <!-- Typing SVG end -->
 <br>
+    <hr>
 <!-- About me Section start by ishavanand - https://github.com/rishavanand/github-profilinator -->
 <div align="center">
 🔭 I’m currently working on whatever @The-R4V3N is working on
@@ -42,7 +43,9 @@
 
 [//]: <> (This is how you make comments in Markdown)
 [//]: <> (- 💬 Ask me about **C/C++, Python, Git, Bash**)
+
 </div>
+
 <!-- About me Section End -->
 
 
@@ -54,18 +57,26 @@
   -->
 
 <!-- BLOG-POST-LIST:START -->
-<!--
-- [Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
-- [Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
-- [How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
-- [My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
-- [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
--->
+<h3 align="center">Visit my Blog</h3>
+<hr>
+<div align="center">
+
+[Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
+
+[Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
+
+[How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
+
+[My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
+
+[Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://www.oliver-joisten.se/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github/)
+
 <!-- BLOG-POST-LIST:END -->
 </div>
 <!-- Blog Section End -->
 <br>
 <h3 align="center">Weekly Development Brakedown</h3>
+<hr>
 <div align="center">
     <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=The_R4V3N&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777" width="800" />
 <br>
@@ -79,7 +90,7 @@
 <br>
 <!-- Connect with me Start -->
 <div align="center">
-          <h3>🔗 Connect with me</h3>  
+          <h3>Connect with me</h3>  
           <a href="https://github.com/The-R4V3N" target="_blank">
             <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
           </a>
@@ -117,6 +128,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 -->
 </p>
+<hr>
 <!-- List of Tools and Languages End -->
 <br>
 <!-- Github Stats Start -->
@@ -128,7 +140,7 @@
 <!-- Github Stats End -->
 <br>
 <!-- Github Trophies Start -->
-<h3> 🏆 GitHub Trophies</h2>
+<h3>GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <!-- Github Trophies End -->
