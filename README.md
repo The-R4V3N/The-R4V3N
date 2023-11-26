@@ -50,18 +50,21 @@
 
 
 <!-- Blog Section Start -->
-<!--
 <div align="center">
  <h3>📕  Latest Blog Posts</h3>  
   <hr>
-  -->
+
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Mistakes to Avoid While Learning to Code](https://www.oliver-joisten.se/8-mistakes-to-avoid-while-learning-to-code/)
-- [Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
-- [Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
-- [How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
-- [My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
+[8 Mistakes to Avoid While Learning to Code](https://www.oliver-joisten.se/8-mistakes-to-avoid-while-learning-to-code/)
+
+[Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
+
+[Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
+
+[How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
+
+[My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
 <!-- BLOG-POST-LIST:END -->
 </div>
 <!-- Blog Section End -->
