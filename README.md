@@ -12,11 +12,6 @@
     <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
     <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
     <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
-    <!--START_SECTION:waka-->
-        <!--
-    <img loading="lazy" style="margin-right: 6px" alt="Lines of code" src="https://img.shields.io/tokei/lines/:provider/:The-R4V3N/:The-R4V3N">
-    -->
-<!--END_SECTION:waka-->
 </div>
 <!-- about repository badges end -->
 <br>
