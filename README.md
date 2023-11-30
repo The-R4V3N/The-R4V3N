@@ -91,12 +91,12 @@
 
 <!-- Contributer graph start -->
 <details align="center">
-    <summary><b>⚡  My Contribution </b></summary>
+    <summary><b>⚡  My Contributions </b></summary>
 
 <br />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </details>
-<br>
+
 <!-- Contributer graph end -->
 </div>
 
