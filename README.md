@@ -94,7 +94,7 @@
     <summary><b>⚡  My Contributions </b></summary>
 
 <br />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&bg_color=2e2e2e&color=f2f2f2&line=cccccc&point=949494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </details>
 
 <!-- Contributer graph end -->
