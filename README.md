@@ -158,7 +158,7 @@
     <summary><b>🏆 GitHub Trophies</b></summary>
 
 <br />
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" />
 </details>
 <!-- Github Trophies End -->
 <br/>  
