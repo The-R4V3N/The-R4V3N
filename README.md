@@ -26,7 +26,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=555&lines=Knowledge+is+power!;Every+moment+is+a+fresh+beginning!;Embrace+challenges+to+foster+your+growth!" alt="Typing SVG" /></a>
 <!-- Typing SVG end -->
 <br>
-    <hr>
+    <h2 align="center">
+        Talking about Personal Stuff:
+    </h2>
 <!-- About me Section start by ishavanand - https://github.com/rishavanand/github-profilinator -->
 <div align="center">
 
@@ -44,15 +46,23 @@
 
 [//]: <> (This is how you make comments in Markdown)
 [//]: <> (- 💬 Ask me about **C/C++, Python, Git, Bash**)
+<br />
+<h2 align="center">
+    My Absolute Favorites:
+</h2>
 
+💻 &nbsp; I love exploring new technologies and building cool stuff.
+
+📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+
+[//]: <> (🍕 &nbsp; Meetups & Tech Events & Hackathons.)
 </div>
 
 <!-- About me Section End -->
-
+<br />
 <!-- Blog Section Start -->
 <div align="center">
- <h3>📕  Latest Blog Posts</h3>  
-  <hr>
+ <h2>📕  Latest Blog Posts</h2>  
 
 <!-- BLOG-POST-LIST:START -->
 [8 Mistakes to Avoid While Learning to Code](https://www.oliver-joisten.se/8-mistakes-to-avoid-while-learning-to-code/)
@@ -68,34 +78,43 @@
 </div>
 <!-- Blog Section End -->
 <br>
-<h3 align="center">Weekly Development Brakedown</h3>
-<hr>
+<h2 align="center">Development Brakedown</h2>
+
+<details align="center">
+  <summary><b>⚡ Last seven days spend coding</b></summary>
+
+  <br />
 <div align="center">
     <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=The_R4V3N&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777" width="800" />
-<br>
+</details>
 <br>
 
 <!-- Contributer graph start -->
-[![The-R4V3N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- Contributer graph start -->
+<details align="center">
+    <summary><b>⚡  My Contribution </b></summary>
+
+<br />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-R4V3N&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+</details>
+<br>
+<!-- Contributer graph end -->
 </div>
 
 <br>
 <!-- Connect with me Start -->
 <div align="center">
-          <h3>Connect with me</h3>  
+          <h2>Connect with me</h2>  
           <a href="https://github.com/The-R4V3N" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px, 15px, 5px, 15px;;" /></a>
           <a href="https://dev.to/ther4v3n" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin: 5px ,15px, 15px, 5px;" /></a>
           <a href="https://linkedin.com/in/oliver-joisten" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px, 15px, 15px, 5px;" /></a>
           <a href="https://www.facebook.com/oliver.joisten" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px, 15px, 15px, 5px;" /></a>
         </div>
-<hr>
 <!-- Connect with me End -->
 <br>
 <!-- List of Tools and Languages Start -->
 <div align="center">
 
-<h3>Here is a list of Languages and Tools that I'm familiar with!</h3>
+<h2>Here is a list of Languages and Tools that I'm familiar with!</h2>
 <br>
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -113,34 +132,63 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 -->
 </p>
-<hr>
 <!-- List of Tools and Languages End -->
 <br>
 <!-- Github Stats Start -->
-<h3> GitHub Stats</h2>
+<h2> GitHub Stats and Dev Stuffs:</h2>
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-R4V3N&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=The-R4V3N&theme=radical&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-R4V3N&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-R4V3N&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-R4V3N&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</details>
 <!-- Github Stats End -->
 <br>
-<!-- Github Trophies Start -->
-<h3>GitHub Trophies</h2>
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
 
-![](https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=The-R4V3N&theme=radical&hide_border=false" />
+</details>
+<!-- Github Trophies Start -->
+<br />
+<details>
+    <summary><b>🏆 GitHub Trophies</b></summary>
+
+<br />
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</details>
 <!-- Github Trophies End -->
 <br/>  
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Linux Ubuntu 22.04</li>
+	    <li><b>Laptop: </b> Lenovo Legion 5</li>
+  	    <li><b>Browser: </b> Brave</li>
+	    <li><b>Terminal: </b> Bash</li>
+	    <li><b>Code Editor:</b> VSCode, MCUXpresso SDK</li>
+        <!--
+ 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
+	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+        -->
+	</ul>
+</details>
+<br />
 <!-- Dev.to Card start -->
 
   <div align="center">
-    <h3>The majority of my reading material this week covered </h3>
+    <h2>The majority of my reading material this week covered </h2>
     <a href="https://app.daily.dev/The_R4V3N"><img src="https://github.com/The-R4V3N/The-R4V3N/blob/master/devcard.svg" width="400" alt="The-R4V3N's Dev Card"/></a>
 </div>
 
 <!-- Dev.to Card End -->
 <br>
 <!-- Random Dev Qoute Start -->
-<h3>✍️ Random Dev Quote</h3>
+<h2>✍️ Random Dev Quote</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- Random Dev Qoute End -->
