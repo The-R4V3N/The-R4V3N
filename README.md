@@ -60,6 +60,9 @@
 
 <!-- About me Section End -->
 <br />
+<!-- Github Stats Start -->
+Ever since I joined GitHub 7 years ago, I pushed 1153 commits, opened 48 issues, submitted 57 pull requests, received 1 stars across 19 personal projects, and contributed to 6 public repositories.
+<!-- Github Stats End -->
 <!-- Blog Section Start -->
 <div align="center">
  <h2>📕  Latest Blog Posts</h2>  
