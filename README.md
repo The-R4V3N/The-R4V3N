@@ -80,7 +80,13 @@
 <br>
 <h2 align="center">Development Brakedown</h2>
 
-
+<!-- Github Stats Start -->
+<div align="center">
+Ever since I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago, I pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests, received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects, and contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories.
+</div>
+<!-- Github Stats End -->
+<br>
+<br>
 
 <details align="center">
   <summary><b>⚡ Last seven days spend coding</b></summary>
