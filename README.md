@@ -60,9 +60,6 @@
 
 <!-- About me Section End -->
 <br />
-<!-- Github Stats Start -->
-Ever since I joined GitHub 7 years ago, I pushed 1153 commits, opened 48 issues, submitted 57 pull requests, received 1 stars across 19 personal projects, and contributed to 6 public repositories.
-<!-- Github Stats End -->
 <!-- Blog Section Start -->
 <div align="center">
  <h2>📕  Latest Blog Posts</h2>  
@@ -82,6 +79,14 @@ Ever since I joined GitHub 7 years ago, I pushed 1153 commits, opened 48 issues,
 <!-- Blog Section End -->
 <br>
 <h2 align="center">Development Brakedown</h2>
+
+<!-- Github Stats Start -->
+<div align="center">
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+</div>
+<!-- Github Stats End -->
+<br>
+<br>
 
 <details align="center">
   <summary><b>⚡ Last seven days spend coding</b></summary>
