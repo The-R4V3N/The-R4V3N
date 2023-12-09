@@ -78,13 +78,12 @@
 </div>
 <!-- Blog Section End -->
 <br>
+
 <h2 align="center">Development Brakedown</h2>
 
-<!-- Github Stats Start -->
-<div align="center">
-Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed <b>{{ COMMITS }}</b> commits, opened <b>{{ ISSUES }}</b> issues, submitted <b>{{ PULL_REQUESTS }}</b> pull requests, received <b>{{ STARS }}</b> stars across <b>{{ REPOSITORIES }}</b> personal projects, and contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }}</b> public repositories.
-</div>
-<!-- Github Stats End -->
+
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+
 <br>
 <br>
 
