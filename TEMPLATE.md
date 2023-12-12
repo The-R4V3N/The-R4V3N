@@ -43,7 +43,7 @@
 
 📝 I regularly write articles on [https://www.oliver-joisten.se/blog/](https://www.oliver-joisten.se/blog/)
 
-📫 How to reach me **<contact@oliver-joisten.se>**
+📫 How to reach me **contact@oliver-joisten.se**
 
 [//]: <> (- 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles)
 
@@ -62,13 +62,9 @@
 </div>
 
 <!-- About me Section End -->
-
 <br />
 <!-- Blog Section Start -->
 <div align="center">
- <h3>📕  Latest Blog Posts</h3>  
-  <hr>
-
  <h2>📕  Latest Blog Posts</h2>  
 
 <!-- BLOG-POST-LIST:START -->
@@ -146,7 +142,7 @@
 <!-- Github Stats Start -->
 <h2> GitHub Stats and Dev Stuffs:</h2>
 <br>
-Ever since I joined GitHub <b>7</b> years ago, I pushed <b>1174</b> commits, opened <b>48</b> issues, submitted <b>57</b> pull requests, received <b>1</b> stars across <b>19</b> personal projects, and contributed to <b>6</b> public repositories.
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 <br>
 <br>
 
@@ -178,17 +174,17 @@ Ever since I joined GitHub <b>7</b> years ago, I pushed <b>1174</b> commits, ope
 <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-   <ul>
-       <li><b>OS:</b> Linux Ubuntu 22.04</li>
-     <li><b>Laptop: </b> Lenovo Legion 5</li>
-       <li><b>Browser: </b> Brave</li>
-     <li><b>Terminal: </b> Bash</li>
-     <li><b>Code Editor:</b> VSCode, MCUXpresso SDK</li>
+  	<ul>
+  	    <li><b>OS:</b> Linux Ubuntu 22.04</li>
+	    <li><b>Laptop: </b> Lenovo Legion 5</li>
+  	    <li><b>Browser: </b> Brave</li>
+	    <li><b>Terminal: </b> Bash</li>
+	    <li><b>Code Editor:</b> VSCode, MCUXpresso SDK</li>
         <!--
  	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
         -->
- </ul>
+	</ul>
 </details>
 <br />
 <!-- Dev.to Card start -->
