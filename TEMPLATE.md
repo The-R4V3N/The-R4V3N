@@ -8,7 +8,10 @@
 <br>
 <!-- about repository badges start -->
 <div align="center">
-    <img src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" alt="Actions Status">
+    <img loading="lazy" style="margin-right: 6px" alt Stats Status" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/stats.yml/badge.svg" />
+    <img loading="lazy" style="margin-right: 6px" alt="Blog post" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/blog-post-workflow.yml/badge.svg" />
+    <img loading="lazy" style="margin-right: 6px" alt="OpenCommit"src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/opencommit.yml/badge.svg" />
+    <img loading="lazy" style="margin-right: 6px" alt="Dev Card" src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" />
     <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
     <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
     <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
