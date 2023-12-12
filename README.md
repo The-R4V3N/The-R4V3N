@@ -15,6 +15,8 @@
     <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
     <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
     <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
+    <img loading="lazy" style="margin-right: 6px" alt="Lines of code" src="https://tokei.rs/b1/github/The-R4V3N/The-R4V3N?label=Lines+of+Code&labelColor=EB008B&color=00B8B5" />
+
 </div>
 <!-- about repository badges end -->
 <br>
