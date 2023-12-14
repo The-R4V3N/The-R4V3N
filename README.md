@@ -142,7 +142,7 @@
 <!-- Github Stats Start -->
 <h2> GitHub Stats and Dev Stuffs:</h2>
 <br>
-Ever since I joined GitHub **7** years ago, I pushed **1209** commits, opened **48** issues, submitted **57** pull requests, received **1** stars across **20** personal projects, and contributed to **6** public repositories.
+Ever since I joined GitHub <b>7</b> years ago, I pushed <b>1211</b> commits, opened <b>50</b> issues, submitted <b>57</b> pull requests, received <b>1</b> stars across <b>20</b> personal projects, and contributed to <b>6</b> public repositories.
 <br>
 <br>
 
