@@ -109,10 +109,10 @@
 <!-- Connect with me Start -->
 <div align="center">
           <h2>Connect with me</h2>  
-          <a href="https://github.com/The-R4V3N" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px, 15px, 5px, 15px;;" /></a>
-          <a href="https://dev.to/ther4v3n" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin: 5px ,15px, 15px, 5px;" /></a>
-          <a href="https://linkedin.com/in/oliver-joisten" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px, 15px, 15px, 5px;" /></a>
-          <a href="https://www.facebook.com/oliver.joisten" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px, 15px, 15px, 5px;" /></a>
+          <a href="https://github.com/The-R4V3N" title="Github - The-R4V3N"><img src="https://img.shields.io/badge/-r4v3n-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px, 15px, 5px, 15px;;" /></a>
+	<a href="https://dev.to/ther4v3n" title="Dev.to - @ther4v3n"><img src="https://img.shields.io/badge/-ther4v3n-2308090A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin: 5px ,15px, 15px, 5px;"/></a>
+          <a href="https://linkedin.com/in/oliver-joisten" title="LinkedIn - Oliver Joisten"><img src="https://img.shields.io/badge/-Oliver Joisten-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px, 15px, 15px, 5px;" /></a>
+          <a href="https://www.facebook.com/oliver.joisten" titlet="Facebook - Oliver Joisten"><img src="https://img.shields.io/badge/-Oliver Joisten-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px, 15px, 15px, 5px;" /></a>
         </div>
 <!-- Connect with me End -->
 <br>
