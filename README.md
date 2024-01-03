@@ -12,8 +12,8 @@
     <img loading="lazy" style="margin-right: 6px" alt="Blog post" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/blog-post-workflow.yml/badge.svg" />
     <img loading="lazy" style="margin-right: 6px" alt="OpenCommit"src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/opencommit.yml/badge.svg" />
     <img loading="lazy" style="margin-right: 6px" alt="Dev Card" src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" />
-    <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg?style=abelColor=EB008B&color=ea9134"/>
-    <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&style=labelColor=EB008B&color=00B8B5"/>
+    <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
+    <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
     <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- about repository badges end -->
@@ -109,10 +109,10 @@
 <!-- Connect with me Start -->
 <div align="center">
           <h2>Connect with me</h2>  
-          <a href="https://github.com/The-R4V3N" title="Github - The-R4V3N"><img src="https://img.shields.io/badge/-r4v3n-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px, 15px, 5px, 15px;;" /></a>
-	<a href="https://dev.to/ther4v3n" title="Dev.to - @ther4v3n"><img src="https://img.shields.io/badge/-ther4v3n-2308090A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin: 5px ,15px, 15px, 5px;"/></a>
-          <a href="https://linkedin.com/in/oliver-joisten" title="LinkedIn - Oliver Joisten"><img src="https://img.shields.io/badge/-Oliver Joisten-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px, 15px, 15px, 5px;" /></a>
-          <a href="https://www.facebook.com/oliver.joisten" titlet="Facebook - Oliver Joisten"><img src="https://img.shields.io/badge/-Oliver Joisten-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px, 15px, 15px, 5px;" /></a>
+          <a href="https://github.com/The-R4V3N" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px, 15px, 5px, 15px;;" /></a>
+          <a href="https://dev.to/ther4v3n" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin: 5px ,15px, 15px, 5px;" /></a>
+          <a href="https://linkedin.com/in/oliver-joisten" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px, 15px, 15px, 5px;" /></a>
+          <a href="https://www.facebook.com/oliver.joisten" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px, 15px, 15px, 5px;" /></a>
         </div>
 <!-- Connect with me End -->
 <br>
@@ -142,7 +142,7 @@
 <!-- Github Stats Start -->
 <h2> GitHub Stats and Dev Stuffs:</h2>
 <br>
-Ever since I joined GitHub <b>7</b> years ago, I pushed <b>1235</b> commits, opened <b>52</b> issues, submitted <b>57</b> pull requests, received <b>1</b> stars across <b>20</b> personal projects, and contributed to <b>6</b> public repositories.
+Ever since I joined GitHub <b>7</b> years ago, I pushed <b>1239</b> commits, opened <b>59</b> issues, submitted <b>57</b> pull requests, received <b>1</b> stars across <b>20</b> personal projects, and contributed to <b>6</b> public repositories.
 <br>
 <br>
 
