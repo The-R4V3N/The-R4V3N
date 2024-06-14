@@ -173,19 +173,40 @@ Ever since I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago, I pushed <b>{{ CO
 <!-- Github Trophies End -->
 <br/>  
 <details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Linux Ubuntu 22.04</li>
-	    <li><b>Laptop: </b> Lenovo Legion 5</li>
-  	    <li><b>Browser: </b> Brave</li>
-	    <li><b>Terminal: </b> Bash</li>
-	    <li><b>Code Editor:</b> VSCode, MCUXpresso SDK</li>
-        <!--
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-        -->
-	</ul>
+  <summary>🔧 <b>Things I use to get stuff done</b></summary>
+<br />
+  <table>
+    <tr>
+      <td><b>OS:</b></td>
+      <td>Linux Ubuntu 22.04</td>
+    </tr>
+    <tr>
+      <td><b>Laptop:</b></td>
+      <td>Lenovo Legion 5</td>
+    </tr>
+    <tr>
+      <td><b>Browser:</b></td>
+      <td>Brave</td>
+    </tr>
+    <tr>
+      <td><b>Terminal:</b></td>
+      <td>Bash</td>
+    </tr>
+    <tr>
+      <td><b>Code Editor:</b></td>
+      <td>VSCode, MCUXpresso SDK, nRF-Connect SDK</td>
+    </tr>
+    <!--
+    <tr>
+      <td><b>Other Tools:</b></td>
+      <td>Postman, Notion, Bitwarden and Raindrop</td>
+    </tr>
+    <tr>
+      <td><b>To Stay Updated:</b></td>
+      <td>Twitter, Product Hunt and Hacker News</td>
+    </tr>
+    -->
+  </table>
 </details>
 <br />
 <!-- Dev.to Card start -->
