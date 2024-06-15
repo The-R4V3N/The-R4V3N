@@ -45,7 +45,7 @@
 
 📫 How to reach me **contact@oliver-joisten.se**
 
-[//]: <> (- 👀 I’m interested in exploring new technologies and developing software for anything embedded)
+[//]: <> (- 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles)
 
 [//]: <> (This is how you make comments in Markdown)
 [//]: <> (- 💬 Ask me about **C/C++, Python, Git, Bash**)
@@ -143,7 +143,7 @@
 <!-- Github Stats Start -->
 <h2> GitHub Stats and Dev Stuffs:</h2>
 <br>
-Ever since I joined GitHub <b>8</b> years ago, I pushed <b>1319</b> commits, opened <b>62</b> issues, submitted <b>58</b> pull requests, received <b>2</b> stars across <b>21</b> personal projects, and contributed to <b>3</b> public repositories.
+Ever since I joined GitHub <b>8</b> years ago, I pushed <b>1327</b> commits, opened <b>62</b> issues, submitted <b>58</b> pull requests, received <b>2</b> stars across <b>21</b> personal projects, and contributed to <b>3</b> public repositories.
 <br>
 <br>
 
