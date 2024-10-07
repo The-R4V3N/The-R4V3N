@@ -178,7 +178,7 @@ Ever since I joined GitHub <b>8</b> years ago, I pushed <b>1427</b> commits, ope
   <table>
     <tr>
       <td><b>OS:</b></td>
-      <td>Linux Ubuntu 22.04</td>
+      <td>Linux Ubuntu 24.04</td>
     </tr>
     <tr>
       <td><b>Laptop:</b></td>
@@ -194,7 +194,7 @@ Ever since I joined GitHub <b>8</b> years ago, I pushed <b>1427</b> commits, ope
     </tr>
     <tr>
       <td><b>Code Editor:</b></td>
-      <td>VSCode, MCUXpresso SDK, nRF-Connect SDK</td>
+      <td>VSCode, MCUXpresso SDK, nRF-Connect SDK, STM CubeMX</td>
     </tr>
     <!--
     <tr>
