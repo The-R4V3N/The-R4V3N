@@ -143,7 +143,7 @@
 <!-- Github Stats Start -->
 <h2> GitHub Stats and Dev Stuffs:</h2>
 <br>
-Ever since I joined GitHub <b>8</b> years ago, I pushed <b>1427</b> commits, opened <b>62</b> issues, submitted <b>58</b> pull requests, received <b>2</b> stars across <b>24</b> personal projects, and contributed to <b>1</b> public repositories.
+Ever since I joined GitHub <b>8</b> years ago, I pushed <b>1429</b> commits, opened <b>62</b> issues, submitted <b>58</b> pull requests, received <b>2</b> stars across <b>24</b> personal projects, and contributed to <b>1</b> public repositories.
 <br>
 <br>
 
@@ -178,7 +178,7 @@ Ever since I joined GitHub <b>8</b> years ago, I pushed <b>1427</b> commits, ope
   <table>
     <tr>
       <td><b>OS:</b></td>
-      <td>Linux Ubuntu 24.04</td>
+      <td>Linux Ubuntu 22.04</td>
     </tr>
     <tr>
       <td><b>Laptop:</b></td>
@@ -194,7 +194,7 @@ Ever since I joined GitHub <b>8</b> years ago, I pushed <b>1427</b> commits, ope
     </tr>
     <tr>
       <td><b>Code Editor:</b></td>
-      <td>VSCode, MCUXpresso SDK, nRF-Connect SDK, STM CubeMX</td>
+      <td>VSCode, MCUXpresso SDK, nRF-Connect SDK</td>
     </tr>
     <!--
     <tr>
