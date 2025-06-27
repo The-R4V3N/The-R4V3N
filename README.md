@@ -9,8 +9,8 @@
 <!-- about repository badges start -->
 <div align="center">
     <img loading="lazy" style="margin-right: 6px" alt Stats Status" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/stats.yml/badge.svg" />
-    <img loading="lazy" style="margin-right: 6px" alt="Blog post" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/blog-post-workflow.yml/badge.svg" />
-  <!--  <img loading="lazy" style="margin-right: 6px" alt="OpenCommit"src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/opencommit.yml/badge.svg" /> -->
+  <!--  <img loading="lazy" style="margin-right: 6px" alt="Blog post" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/blog-post-workflow.yml/badge.svg" /> -->
+    <img loading="lazy" style="margin-right: 6px" alt="OpenCommit"src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/opencommit.yml/badge.svg" />
     <img loading="lazy" style="margin-right: 6px" alt="Dev Card" src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" />
     <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
     <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
@@ -184,11 +184,11 @@ Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1486</b> commits, ope
     </tr>
     <tr>
       <td><b>Laptop:</b></td>
-      <td>Lenovo Legion 5</td>
+      <td>Lenovo Legion 5, Lenovo ThinkPad X1</td>
     </tr>
     <tr>
       <td><b>Browser:</b></td>
-      <td>Brave</td>
+      <td>Brave, Firefox</td>
     </tr>
     <tr>
       <td><b>Terminal:</b></td>
@@ -196,8 +196,12 @@ Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1486</b> commits, ope
     </tr>
     <tr>
       <td><b>Code Editor:</b></td>
-      <td>VSCode, MCUXpresso SDK, nRF-Connect SDK</td>
+      <td>VSCode, MCUXpresso SDK, STM32 CubeIDE </td>
     </tr>
+      <tr>
+          <td><b>Other Tools:</b></td>
+          <td>nRF-Connect SDK, STM32 CubeMx, STM32 Programmer</td>
+      </tr>
     <!--
     <tr>
       <td><b>Other Tools:</b></td>
