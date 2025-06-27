@@ -10,7 +10,7 @@
 <div align="center">
     <img loading="lazy" style="margin-right: 6px" alt Stats Status" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/stats.yml/badge.svg" />
     <img loading="lazy" style="margin-right: 6px" alt="Blog post" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/blog-post-workflow.yml/badge.svg" />
-    <img loading="lazy" style="margin-right: 6px" alt="OpenCommit"src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/opencommit.yml/badge.svg" />
+  <!--  <img loading="lazy" style="margin-right: 6px" alt="OpenCommit"src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/opencommit.yml/badge.svg" /> -->
     <img loading="lazy" style="margin-right: 6px" alt="Dev Card" src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" />
     <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
     <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
@@ -38,13 +38,13 @@
 🔭 I’m currently working on whatever @The-R4V3N is working on
 
 🌱 I’m currently a Advanced Software Developer Embedded Systems
-
+<!--
 👨‍💻 All of my projects are available at [https://www.oliver-joisten.se/](https://www.oliver-joisten.se/)
 
 📝 I regularly write articles on [https://www.oliver-joisten.se/blog/](https://www.oliver-joisten.se/blog/)
 
 📫 How to reach me **contact@oliver-joisten.se**
-
+-->
 [//]: <> (- 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles)
 
 [//]: <> (This is how you make comments in Markdown)
@@ -56,7 +56,7 @@
 
 💻 &nbsp; I love exploring new technologies and building cool stuff.
 
-📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+📰 &nbsp; Reading & watching Tech Stuff whenever possible.
 
 [//]: <> (🍕 &nbsp; Meetups & Tech Events & Hackathons.)
 </div>
@@ -64,10 +64,11 @@
 <!-- About me Section End -->
 <br />
 <!-- Blog Section Start -->
+<!--
 <div align="center">
  <h2>📕  Latest Blog Posts</h2>  
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 [8 Mistakes to Avoid While Learning to Code](https://www.oliver-joisten.se/8-mistakes-to-avoid-while-learning-to-code/)
 
 [Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
@@ -77,6 +78,7 @@
 [How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
 
 [My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
+-->
 <!-- BLOG-POST-LIST:END -->
 </div>
 <!-- Blog Section End -->
@@ -178,7 +180,7 @@ Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1486</b> commits, ope
   <table>
     <tr>
       <td><b>OS:</b></td>
-      <td>Linux Ubuntu 22.04</td>
+      <td>Linux Ubuntu 24.04</td>
     </tr>
     <tr>
       <td><b>Laptop:</b></td>
@@ -190,7 +192,7 @@ Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1486</b> commits, ope
     </tr>
     <tr>
       <td><b>Terminal:</b></td>
-      <td>Bash</td>
+      <td>Zsh</td>
     </tr>
     <tr>
       <td><b>Code Editor:</b></td>
