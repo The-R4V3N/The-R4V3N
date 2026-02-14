@@ -144,7 +144,7 @@
 <!-- Github Stats Start -->
 <h2> GitHub Stats and Dev Stuffs:</h2>
 <br>
-Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1333</b> commits, opened <b>96</b> issues, submitted <b>85</b> pull requests, received <b>3</b> stars across <b>23</b> personal projects, and contributed to <b>0</b> public repositories.
+Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1335</b> commits, opened <b>113</b> issues, submitted <b>86</b> pull requests, received <b>3</b> stars across <b>23</b> personal projects, and contributed to <b>0</b> public repositories.
 <br>
 <br>
 
