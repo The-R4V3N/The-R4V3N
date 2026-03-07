@@ -36,16 +36,16 @@
 <div align="center">
 
 🔭 I’m currently working on whatever @The-R4V3N is working on
-
-🌱 I’m currently a Advanced Software Developer Embedded Systems
 <!--
+🌱 I’m currently a Advanced Software Developer Embedded Systems
+
 👨‍💻 All of my projects are available at [https://www.oliver-joisten.se/](https://www.oliver-joisten.se/)
 
 📝 I regularly write articles on [https://www.oliver-joisten.se/blog/](https://www.oliver-joisten.se/blog/)
 
 📫 How to reach me **contact@oliver-joisten.se**
 -->
-[//]: <> (- 👀 I’m interested in exploring new technologies and developing software for autonomous and electrical vehicles)
+[//]: <> (- 👀 I’m interested in exploring new technologies and developing software)
 
 [//]: <> (This is how you make comments in Markdown)
 [//]: <> (- 💬 Ask me about **C/C++, Python, Git, Bash**)
@@ -144,7 +144,7 @@
 <!-- Github Stats Start -->
 <h2> GitHub Stats and Dev Stuffs:</h2>
 <br>
-Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1422</b> commits, opened <b>121</b> issues, submitted <b>100</b> pull requests, received <b>3</b> stars across <b>24</b> personal projects, and contributed to <b>1</b> public repositories.
+Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1423</b> commits, opened <b>121</b> issues, submitted <b>100</b> pull requests, received <b>3</b> stars across <b>24</b> personal projects, and contributed to <b>1</b> public repositories.
 <br>
 <br>
 
