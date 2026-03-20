@@ -154,15 +154,15 @@ Ever since I joined GitHub <b>{{ ACCOUNT_AGE }}</b> years ago, I pushed <b>{{ CO
 
 <!-- Random Dev Qoute End -->
  <br/>
-<!-- User counter & Paypal Start -->
+<!-- User counter & Sponsor Start -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=The-R4V3N&&style=flat-square" align="center" />
 &emsp;
-<a href="https://www.paypal.me/TheR4V3N" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
+<a href="https://github.com/sponsors/The-R4V3N" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA.svg?style=flat-square&logo=githubsponsors&logoColor=white" align="center"/>
 </a>
 </div>
-<!-- User counter & Paypal End -->
+<!-- User counter & Sponsor End -->
 <br>
 <br>
 <!-- wave GIF start -->
