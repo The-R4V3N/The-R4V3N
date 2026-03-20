@@ -8,81 +8,43 @@
 <br>
 <!-- about repository badges start -->
 <div align="center">
-    <img loading="lazy" style="margin-right: 6px" alt Stats Status" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/stats.yml/badge.svg" />
-    <!--<img loading="lazy" style="margin-right: 6px" alt="Blog post" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/blog-post-workflow.yml/badge.svg" /> -->
-    <img loading="lazy" style="margin-right: 6px" alt="OpenCommit"src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/opencommit.yml/badge.svg" />
-    <img loading="lazy" style="margin-right: 6px" alt="Dev Card" src="https://github.com/The-R4V3N/The-R4V3N/workflows/DevCard/badge.svg" />
-    <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
-    <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
+    <img loading="lazy" style="margin-right: 6px" alt="Stats Status" src="https://github.com/The-R4V3N/The-R4V3N/actions/workflows/stats.yml/badge.svg" />
+    <img loading="lazy" style="margin-right: 6px" alt="wakatime badge" src="https://wakatime.com/badge/user/ce63a8d9-acce-47b8-b2da-a627d3768679.svg"/>
+    <img loading="lazy" style="margin-right: 6px" alt="follow badge" src="https://img.shields.io/github/followers/The-R4V3N?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
     <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- about repository badges end -->
 <br>
 <!-- Header image by wei - https://github.com/wei/socialify -->
  <p align="center">
-   <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?description=1&descriptionEditable=Code%2C%20Debug%20and%20Repeat&font=Raleway&name=1&pattern=Circuit%20Board&theme=Dark" alt="The-R4V3N" width="700" height="300" />
+   <img src="https://socialify.git.ci/The-R4V3N/The-R4V3N/image?description=1&descriptionEditable=Building+things+that+work&font=Raleway&name=1&pattern=Circuit%20Board&theme=Dark" alt="The-R4V3N" width="700" height="300" />
 </p>
 <!-- Header image end -->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=555&lines=Knowledge+is+power!;Every+moment+is+a+fresh+beginning!;Embrace+challenges+to+foster+your+growth!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=555&lines=Building+things+that+work;AI+agents+%C2%B7+Intelligence+tools+%C2%B7+E-commerce;Open+Source+Contributor" alt="Typing SVG" /></a>
 <!-- Typing SVG end -->
 <br>
     <h2 align="center">
-        Talking about Personal Stuff:
+        What I'm About:
     </h2>
-<!-- About me Section start by ishavanand - https://github.com/rishavanand/github-profilinator -->
+<!-- About me Section start -->
 <div align="center">
 
-🔭 I’m currently working on whatever @The-R4V3N is working on
-<!--
-🌱 I’m currently a Advanced Software Developer Embedded Systems
+🔭 &nbsp; Building AI agents, intelligence tools & full-stack web apps
 
-👨‍💻 All of my projects are available at [https://www.oliver-joisten.se/](https://www.oliver-joisten.se/)
+💻 &nbsp; TypeScript, Next.js, Node.js, React, Python
 
-📝 I regularly write articles on [https://www.oliver-joisten.se/blog/](https://www.oliver-joisten.se/blog/)
+🤖 &nbsp; AI-assisted development with Claude Code
 
-📫 How to reach me **contact@oliver-joisten.se**
--->
-[//]: <> (- 👀 I’m interested in exploring new technologies and developing software)
+🌍 &nbsp; Open source contributor — shipping code that matters
 
-[//]: <> (This is how you make comments in Markdown)
-[//]: <> (- 💬 Ask me about **C/C++, Python, Git, Bash**)
-<br />
-<h2 align="center">
-    My Absolute Favorites:
-</h2>
-
-💻 &nbsp; I love exploring new technologies and building cool stuff.
-
-📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-
-[//]: <> (🍕 &nbsp; Meetups & Tech Events & Hackathons.)
 </div>
 
 <!-- About me Section End -->
 <br />
-<!-- Blog Section Start -->
-<!--
-<div align="center">
- <h2>📕  Latest Blog Posts</h2>  
-
-<!-- BLOG-POST-LIST:START 
-[8 Mistakes to Avoid While Learning to Code](https://www.oliver-joisten.se/8-mistakes-to-avoid-while-learning-to-code/)
-
-[Creating Secure C Programs: A Comprehensive Guide 🛡️](https://www.oliver-joisten.se/creating-secure-c-programs-a-comprehensive-guide-%f0%9f%9b%a1%ef%b8%8f/)
-
-[Introduction to Modern C++: Vector and Unique Pointer](https://www.oliver-joisten.se/introduction-to-modern-c-vector-and-unique-pointer/)
-
-[How to Create an Impressive GitHub Profile](https://www.oliver-joisten.se/how-to-create-an-impressive-github-profile/)
-
-[My VS-Code setup](https://www.oliver-joisten.se/my-vs-code-setup/)
-<!-- BLOG-POST-LIST:END -->
-</div>
-<!-- Blog Section End -->
-<br>
-<h2 align="center">Development Brakedown</h2>
+<h2 align="center">Development Breakdown</h2>
 
 <br>
 
@@ -109,42 +71,36 @@
 <br>
 <!-- Connect with me Start -->
 <div align="center">
-          <h2>Connect with me</h2>  
+          <h2>Connect with me</h2>
           <a href="https://github.com/The-R4V3N" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px, 15px, 5px, 15px;;" /></a>
-          <a href="https://dev.to/ther4v3n" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" style="margin: 5px ,15px, 15px, 5px;" /></a>
           <a href="https://linkedin.com/in/oliver-joisten" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px, 15px, 15px, 5px;" /></a>
-          <a href="https://www.facebook.com/oliver.joisten" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px, 15px, 15px, 5px;" /></a>
         </div>
 <!-- Connect with me End -->
 <br>
 <!-- List of Tools and Languages Start -->
 <div align="center">
 
-<h2>Here is a list of Languages and Tools that I'm familiar with!</h2>
+<h2>Languages and Tools</h2>
 <br>
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.nordicsemi.com/Products/Development-software/nrf-connect-sdk" target="_blank"><img style="margin: 10px" src="https://www.nordicsemi.com/-/media/Images/Products/SDKs/nRFConnectSDK_new.png?h=350&iar=0&mw=350&w=350&hash=74B0FED7269C642A50A3F5AC07E03F2E" alt="Nordic SDK" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="50"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
- </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-<!--
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
--->
 </p>
 <!-- List of Tools and Languages End -->
 <br>
 <!-- Github Stats Start -->
-<h2> GitHub Stats and Dev Stuffs:</h2>
+<h2> GitHub Stats:</h2>
 <br>
-Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1568</b> commits, opened <b>130</b> issues, submitted <b>114</b> pull requests, received <b>3</b> stars across <b>24</b> personal projects, and contributed to <b>2</b> public repositories.
+Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1573</b> commits, opened <b>130</b> issues, submitted <b>114</b> pull requests, received <b>3</b> stars across <b>24</b> personal projects, and contributed to <b>2</b> public repositories.
 <br>
 <br>
 
@@ -163,23 +119,14 @@ Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1568</b> commits, ope
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=The-R4V3N&theme=radical&hide_border=false" />
 </details>
-<!-- Github Trophies Start -->
-<br />
-<details>
-    <summary><b>🏆 GitHub Trophies</b></summary>
-
-<br />
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=The-R4V3N&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" />
-</details>
-<!-- Github Trophies End -->
-<br/>  
+<br/>
 <details>
   <summary>🔧 <b>Things I use to get stuff done</b></summary>
 <br />
   <table>
     <tr>
       <td><b>OS:</b></td>
-      <td>Linux Ubuntu 24.04</td>
+      <td>Windows 11 Pro</td>
     </tr>
     <tr>
       <td><b>Laptop:</b></td>
@@ -191,38 +138,20 @@ Ever since I joined GitHub <b>9</b> years ago, I pushed <b>1568</b> commits, ope
     </tr>
     <tr>
       <td><b>Terminal:</b></td>
-      <td>Zsh</td>
+      <td>PowerShell</td>
     </tr>
     <tr>
       <td><b>Code Editor:</b></td>
-      <td>VSCode, MCUXpresso SDK, nRF-Connect SDK, STM32 CubeMX, STM32 Cube Programmer, STM32 CubeIDE</td>
+      <td>VSCode + Claude Code</td>
     </tr>
-    <!--
-    <tr>
-      <td><b>Other Tools:</b></td>
-      <td>Postman, Notion, Bitwarden and Raindrop</td>
-    </tr>
-    <tr>
-      <td><b>To Stay Updated:</b></td>
-      <td>Twitter, Product Hunt and Hacker News</td>
-    </tr>
-    -->
   </table>
 </details>
 <br />
-<!-- Dev.to Card start -->
-
-  <div align="center">
-    <h2>The majority of my reading material this week covered </h2>
-    <a href="https://app.daily.dev/The_R4V3N"><img src="https://github.com/The-R4V3N/The-R4V3N/blob/master/devcard.svg" width="400" alt="The-R4V3N's Dev Card"/></a>
-</div>
-
-<!-- Dev.to Card End -->
-<br>
 <!-- Random Dev Qoute Start -->
 <h2>✍️ Random Dev Quote</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!-- Random Dev Qoute End -->
  <br/>
 <!-- User counter & Paypal Start -->
